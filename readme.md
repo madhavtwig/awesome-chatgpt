@@ -279,6 +279,7 @@
 - [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 - [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 
 ## Packages
 
